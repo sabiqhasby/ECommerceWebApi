@@ -59,6 +59,7 @@ namespace ECommerce.SharedLibrary.Middleware
                statusCode = StatusCodes.Status408RequestTimeout;
             }
 
+            // if Exception is caught.
             // if None of the exceptions then do the default
             await ModifyHeader(context, title, message, statusCode);
 
