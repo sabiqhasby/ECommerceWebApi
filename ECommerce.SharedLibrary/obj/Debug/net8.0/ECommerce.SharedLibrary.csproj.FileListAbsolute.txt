@@ -1,0 +1,12 @@
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\bin\Debug\net8.0\ECommerce.SharedLibrary.deps.json
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\bin\Debug\net8.0\ECommerce.SharedLibrary.dll
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\bin\Debug\net8.0\ECommerce.SharedLibrary.pdb
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.csproj.AssemblyReference.cache
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.AssemblyInfoInputs.cache
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.AssemblyInfo.cs
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.dll
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\obj\Debug\net8.0\refint\ECommerce.SharedLibrary.dll
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\obj\Debug\net8.0\ECommerce.SharedLibrary.pdb
+F:\CODE\C#\DOTNETWEB\ECommerceWebApi\ECommerce.SharedLibrary\obj\Debug\net8.0\ref\ECommerce.SharedLibrary.dll
