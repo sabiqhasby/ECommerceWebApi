@@ -1,0 +1,12 @@
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.deps.json
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.dll
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.pdb
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.AssemblyInfoInputs.cache
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.AssemblyInfo.cs
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.csproj.CoreCompileInputs.cache
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.sourcelink.json
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.dll
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/obj/Debug/net8.0/refint/ProductApi.Domain.dll
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.pdb
+/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/obj/Debug/net8.0/ref/ProductApi.Domain.dll
