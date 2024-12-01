@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Application/ProductApi.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ECommerce.SharedLibrary/ECommerce.SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ECommerce.SharedLibrary/ECommerce.SharedLibrary.csproj",
+        "projectName": "ECommerce.SharedLibrary",
+        "projectPath": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ECommerce.SharedLibrary/ECommerce.SharedLibrary.csproj",
+        "packagesPath": "/Users/sabiq/.nuget/packages/",
+        "outputPath": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ECommerce.SharedLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sabiq/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Application/ProductApi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Application/ProductApi.Application.csproj",
+        "projectName": "ProductApi.Application",
+        "projectPath": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Application/ProductApi.Application.csproj",
+        "packagesPath": "/Users/sabiq/.nuget/packages/",
+        "outputPath": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sabiq/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ECommerce.SharedLibrary/ECommerce.SharedLibrary.csproj": {
+                "projectPath": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ECommerce.SharedLibrary/ECommerce.SharedLibrary.csproj"
+              },
+              "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/ProductApi.Domain.csproj": {
+                "projectPath": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/ProductApi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/ProductApi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/ProductApi.Domain.csproj",
+        "projectName": "ProductApi.Domain",
+        "projectPath": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/ProductApi.Domain.csproj",
+        "packagesPath": "/Users/sabiq/.nuget/packages/",
+        "outputPath": "/Users/sabiq/Documents/CODE/C#/ECommerceWebApi/ProductApi.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sabiq/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

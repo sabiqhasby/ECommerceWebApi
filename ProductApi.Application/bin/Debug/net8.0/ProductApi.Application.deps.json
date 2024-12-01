@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProductApi.Application/1.0.0": {
+        "dependencies": {
+          "ProductApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ProductApi.Application.dll": {}
+        }
+      },
+      "ProductApi.Domain/1.0.0": {
+        "runtime": {
+          "ProductApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductApi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
